@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="CommonModule.КоннекторHTTP" id="3cd5b13c-55bc-433e-b715-d85f8b83b7e9" configVersion="c6886b1f825716f8ae85cfa207a47ec759ad0d28"/>
+		<Metadata name="CommonModule.КоннекторHTTP.Module" id="3cd5b13c-55bc-433e-b715-d85f8b83b7e9.0" configVersion="71daf95eb475fd9145905afb83706f2b16469a6f"/>
+		<Metadata name="Configuration.ПолучениеЧековИзСервиса" id="449dbc2f-2f5f-4704-8717-18bde03536c2" configVersion="d94adaa5b5e819fda0e7c540e6f58cd5efe55cd5"/>
+		<Metadata name="DataProcessor.ПолучениеЧековИзСервиса" id="8b6ba1c1-92d6-44ca-af06-da7148f312fe" configVersion="c1681e17aa6ab90c1421930ae5a38924d51ca64a">
+			<Metadata name="DataProcessor.ПолучениеЧековИзСервиса.Command.ЗагрузитьЧекиИзСервиса" id="ed1cf225-49d3-4906-a31e-a95dc67988a3"/>
+		</Metadata>
+		<Metadata name="DataProcessor.ПолучениеЧековИзСервиса.Command.ЗагрузитьЧекиИзСервиса.CommandModule" id="ed1cf225-49d3-4906-a31e-a95dc67988a3.2" configVersion="61ec84770aff1159025213c4b2ce9b77f8deda8f"/>
+		<Metadata name="DataProcessor.ПолучениеЧековИзСервиса.Form.ФормаЗагрузкиЧеков" id="07b0942a-8a6b-420b-a9b8-c4b208d6678f" configVersion="c87c293698001397e2f6a7fec6494c9602befe6c"/>
+		<Metadata name="DataProcessor.ПолучениеЧековИзСервиса.Form.ФормаЗагрузкиЧеков.Form" id="07b0942a-8a6b-420b-a9b8-c4b208d6678f.0" configVersion="31b3a8ec9ff3cd57f134a390a6e1f5ae994b7458"/>
+		<Metadata name="DataProcessor.ПолучениеЧековИзСервиса.ManagerModule" id="8b6ba1c1-92d6-44ca-af06-da7148f312fe.2" configVersion="c6fa8c8612f4ac032f223c7975c1a9c4cb8e15ff"/>
+		<Metadata name="DataProcessor.ПолучениеЧековИзСервиса.ObjectModule" id="8b6ba1c1-92d6-44ca-af06-da7148f312fe.0" configVersion="47a3d6babb0b63a5c2d2fd7e9ed5c72be8cbb7eb"/>
+		<Metadata name="Language.Русский" id="35625ffa-a510-4238-9dbf-d9b149a0326d" configVersion="612d502802d2998ebb5a3b3ef9cd6d3816d67506"/>
+		<Metadata name="Role.ПолучениеЧековИзСервиса_ОсновнаяРоль" id="00dfdd02-0f6d-4dbf-8a23-3f9224cc857f" configVersion="08e259c778d29ebc14f6721009df48fa02873f75"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
